@@ -9,7 +9,7 @@ in your printer cfg include section add
 
 Important files
 
-    https://github.com/klipperBedLevelMacros/klipperBedLevelMacros/blob/main/BedLevelling/bedleveling_settings.cfg
+    [bedleveling_settings.cfg](https://github.com/klipperBedLevelMacros/klipperBedLevelMacros/blob/main/BedLevelling/bedleveling_settings.cfg)
 
     https://github.com/klipperBedLevelMacros/klipperBedLevelMacros/blob/main/BedLevelling/move_backoflcdside.cfg
     https://github.com/klipperBedLevelMacros/klipperBedLevelMacros/blob/main/BedLevelling/move_backotherside.cfg
