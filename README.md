@@ -5,8 +5,9 @@ Code not tested
 Upload to machine/config files/macros folder and include in 
 in your printer cfg include section add
 
-    [include macro/bedlevel/bedleveling_settings.cfg]
+    [include macros/bedlevel/bedleveling_settings.cfg]
 
+or place the shim macro BedLeveling.cfg in your klipper config/macros
 Important files
 
 [BedLevelling/bedleveling_settings.cfg](https://github.com/klipperBedLevelMacros/klipperBedLevelMacros/blob/main/BedLevelling/bedleveling_settings.cfg)
